@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1121493/inter-library-search-by-webloft/trunk/File/MARC
+END
+List.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/1110370/inter-library-search-by-webloft/trunk/File/MARC/List.php
+END
+Data_Field.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/1110370/inter-library-search-by-webloft/trunk/File/MARC/Data_Field.php
+END
+Subfield.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/1110370/inter-library-search-by-webloft/trunk/File/MARC/Subfield.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/1110370/inter-library-search-by-webloft/trunk/File/MARC/Exception.php
+END
+Record.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/1110370/inter-library-search-by-webloft/trunk/File/MARC/Record.php
+END
+Control_Field.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/1110370/inter-library-search-by-webloft/trunk/File/MARC/Control_Field.php
+END
+Field.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/1121493/inter-library-search-by-webloft/trunk/File/MARC/Field.php
+END
+Lint.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/1110370/inter-library-search-by-webloft/trunk/File/MARC/Lint.php
+END
